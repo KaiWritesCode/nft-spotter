@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nft-spotter/static/css/main.4edf2d47.chunk.css",
-    "main.js": "/nft-spotter/static/js/main.c8c63b2c.chunk.js",
-    "main.js.map": "/nft-spotter/static/js/main.c8c63b2c.chunk.js.map",
+    "main.js": "/nft-spotter/static/js/main.5519585a.chunk.js",
+    "main.js.map": "/nft-spotter/static/js/main.5519585a.chunk.js.map",
     "runtime-main.js": "/nft-spotter/static/js/runtime-main.01679875.js",
     "runtime-main.js.map": "/nft-spotter/static/js/runtime-main.01679875.js.map",
     "static/css/2.527f2201.chunk.css": "/nft-spotter/static/css/2.527f2201.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.527f2201.chunk.css",
     "static/js/2.947d674a.chunk.js",
     "static/css/main.4edf2d47.chunk.css",
-    "static/js/main.c8c63b2c.chunk.js"
+    "static/js/main.5519585a.chunk.js"
   ]
 }
