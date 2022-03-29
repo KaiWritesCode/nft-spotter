@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/nft-spotter/static/css/main.edc6f30a.chunk.css",
-    "main.js": "/nft-spotter/static/js/main.9432dfed.chunk.js",
-    "main.js.map": "/nft-spotter/static/js/main.9432dfed.chunk.js.map",
+    "main.css": "/nft-spotter/static/css/main.9a0e7af6.chunk.css",
+    "main.js": "/nft-spotter/static/js/main.df0f8ae4.chunk.js",
+    "main.js.map": "/nft-spotter/static/js/main.df0f8ae4.chunk.js.map",
     "runtime-main.js": "/nft-spotter/static/js/runtime-main.dac5e4ec.js",
     "runtime-main.js.map": "/nft-spotter/static/js/runtime-main.dac5e4ec.js.map",
     "static/css/2.527f2201.chunk.css": "/nft-spotter/static/css/2.527f2201.chunk.css",
-    "static/js/2.1873c8e7.chunk.js": "/nft-spotter/static/js/2.1873c8e7.chunk.js",
-    "static/js/2.1873c8e7.chunk.js.map": "/nft-spotter/static/js/2.1873c8e7.chunk.js.map",
+    "static/js/2.b5433dc4.chunk.js": "/nft-spotter/static/js/2.b5433dc4.chunk.js",
+    "static/js/2.b5433dc4.chunk.js.map": "/nft-spotter/static/js/2.b5433dc4.chunk.js.map",
     "index.html": "/nft-spotter/index.html",
     "static/css/2.527f2201.chunk.css.map": "/nft-spotter/static/css/2.527f2201.chunk.css.map",
-    "static/css/main.edc6f30a.chunk.css.map": "/nft-spotter/static/css/main.edc6f30a.chunk.css.map",
-    "static/js/2.1873c8e7.chunk.js.LICENSE.txt": "/nft-spotter/static/js/2.1873c8e7.chunk.js.LICENSE.txt",
+    "static/css/main.9a0e7af6.chunk.css.map": "/nft-spotter/static/css/main.9a0e7af6.chunk.css.map",
+    "static/js/2.b5433dc4.chunk.js.LICENSE.txt": "/nft-spotter/static/js/2.b5433dc4.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/nft-spotter/static/media/revicons.e8746a62.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.dac5e4ec.js",
     "static/css/2.527f2201.chunk.css",
-    "static/js/2.1873c8e7.chunk.js",
-    "static/css/main.edc6f30a.chunk.css",
-    "static/js/main.9432dfed.chunk.js"
+    "static/js/2.b5433dc4.chunk.js",
+    "static/css/main.9a0e7af6.chunk.css",
+    "static/js/main.df0f8ae4.chunk.js"
   ]
 }
