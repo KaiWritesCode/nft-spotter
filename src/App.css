@@ -1,0 +1,48 @@
+/* Base styles  */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #555b6e !important;
+  overflow-x: hidden;
+}
+
+.btn:hover {
+  border-color: rgb(41, 41, 41);
+  color: rgb(24, 24, 24);
+}
+
+.container {
+  width: 1400px;
+  padding: 0 3rem;
+}
+
+/* Navbar - React Bootstrap classes  */
+#navbarSupportedContent {
+  justify-content: flex-end;
+}
+
+.navbar-toggler {
+  outline: none;
+  border: none;
+}
+
+.input-group {
+  width: 200px;
+}
+
+/* responsive container  */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .container {
+    width: 100%;
+    max-width: none;
+    padding: 0 2rem;
+  }
+}

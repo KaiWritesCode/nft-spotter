@@ -1,0 +1,135 @@
+.container {
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.image {
+  min-height: 273px;
+}
+.bannerImage {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.bannerDiv {
+  height: 260px;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.collectionImage {
+  border-radius: 120px;
+  width: 120px;
+  height: 120px;
+  margin-top: -50px;
+  border: 2px solid #555b6e;
+  border: 2px solid #7487c2;
+}
+
+.collectionDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.colCard {
+  background-color: #555b6e;
+  border: 1px solid rgb(163, 163, 163);
+  margin: 10px;
+  width: 300px;
+  border-radius: 10px;
+  color: white;
+  box-shadow: -15px 10px 21px -14px rgba(0, 0, 0, 0.34);
+}
+.cardDisplay {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.wrapper {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.flexWrapper {
+  display: flex;
+}
+
+.statsBox {
+  border: 1px solid rgb(255, 255, 255);
+  margin: 5px;
+  padding: 8px;
+  font-size: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  display: flex;
+  align-items: baseline;
+  margin-right: none !important;
+  border-right: none;
+  border-top-right-radius: 0px !important;
+  border: 1px solid white;
+  border-bottom-right-radius: 0px !important;
+}
+
+.iconGroup {
+  margin-left: auto;
+}
+
+.input:focus {
+  border-color: rgba(117, 117, 117, 0.5);
+  box-shadow: rgb(4 17 29 / 25%) 0px 0px 8px 0px;
+}
+
+.searchBtn {
+  background-color: #fff;
+  border: none;
+  outline: none;
+  height: 100%;
+  border-radius: 0.25rem;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.name {
+  text-decoration: none;
+}
+
+.filterWrapper {
+  width: 340px;
+  display: flex;
+}
+
+.bottomButton {
+  width: 300px;
+  margin: 30px auto;
+}
+
+@media screen and (max-width: 810px) {
+  .cardDisplay {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .flexWrapper {
+    flex-direction: column;
+  }
+
+  .colCard {
+    width: 80%;
+    margin: 10px auto;
+    padding: 0 2rem;
+  }
+}

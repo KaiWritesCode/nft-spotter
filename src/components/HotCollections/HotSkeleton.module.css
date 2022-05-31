@@ -1,0 +1,57 @@
+.skeleton {
+  opacity: 0.7;
+  animation: skeleton-loading 1s linear infinite alternate;
+}
+
+.textFlex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.wrapper {
+  text-align: center;
+  display: flex;
+}
+
+.card {
+  height: 200px;
+  width: 220px;
+  background-color: #80889d;
+  align-items: center;
+  border-radius: 0.5rem;
+  text-align: center;
+  padding: 15px 0;
+  margin: 0 20px;
+}
+
+/* shapes  */
+
+.circle {
+  height: 75px;
+  width: 75px;
+  border-radius: 50%;
+  margin: 0 auto 10px;
+  border: 1px solid transparent;
+}
+
+.text {
+  width: 180px;
+  height: 1.3rem;
+  margin-bottom: 0.25rem;
+  border-radius: 0.125rem;
+  margin: 8px;
+}
+
+.textSm {
+  width: 150px;
+}
+@keyframes skeleton-loading {
+  0% {
+    background-color: hsl(200, 20%, 70%);
+  }
+  100% {
+    background-color: hsl(200, 20%, 95%);
+  }
+}

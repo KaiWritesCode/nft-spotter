@@ -1,0 +1,19 @@
+.favCard {
+     margin-bottom: 30px;
+     background-color: #80879D;
+     color: white;
+     padding: 18px;
+}
+
+.listStyle {
+    background-color: #80879D;
+    color: white;
+}
+
+.listStyle a {
+    color: white;
+}
+
+.card>.list-group {
+    border-top: none;
+}
