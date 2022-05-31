@@ -3,6 +3,8 @@
 
 ## NFT-Spotter is a web site that displays information on the NFT Market.
 
+*Please note if data is returned as undefined, opensea api may be down, please try again later*
+
 
 ## Features:
 1. Top 100 
